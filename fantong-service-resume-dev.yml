@@ -1,4 +1,4 @@
 mysql:
   url: dev-http://localhost:3306/db100
 fantong:
-  message: hello fantong,500
+  message: hello fantong,600
